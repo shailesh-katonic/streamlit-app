@@ -1,1 +1,1 @@
-# streamlit-app
+# sample-app
