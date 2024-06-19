@@ -2,4 +2,4 @@
 address = "https://labeebapps.katonic.ai"
 enableCORS = true
 enableXsrfProtection = true
-allowedOrigins = [https://b-labeeb-clone.katonic.ai]
+allowedOrigins = ["https://b-labeeb-clone.katonic.ai"]
