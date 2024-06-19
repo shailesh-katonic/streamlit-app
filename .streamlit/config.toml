@@ -1,2 +1,5 @@
 [server]
-address = "https://b-labeeb-clone.katonic.ai"
+address = "https://labeebapps.katonic.ai"
+enableCORS = true
+enableXsrfProtection = true
+allowedOrigins = [https://b-labeeb-clone.katonic.ai]
