@@ -1,4 +1,5 @@
 [server]
 headless = true
-enableCORS = false
-enableXsrfProtection = false
+address = b-labeeb-clone.katonic.ai
+enableCORS = true
+enableXsrfProtection = true
