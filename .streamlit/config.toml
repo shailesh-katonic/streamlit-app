@@ -1,5 +1,2 @@
 [server]
-headless = true
 address = "https://b-labeeb-clone.katonic.ai"
-enableCORS = true
-enableXsrfProtection = true
